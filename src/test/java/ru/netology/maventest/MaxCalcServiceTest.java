@@ -8,7 +8,7 @@ public class MaxCalcServiceTest {
 
     public void maxNumberA() {
         MaxCalcService myService = new MaxCalcService();
-        int a = 5;
+        int a = 3;
         int b = 4;
 
         int expected = a;
